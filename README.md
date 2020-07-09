@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Movies and T.V. series 
 
 - Reach me via 👇👇
-Twitter - https://twitter.com/Prateek_theDev
 
-LinkedIn - https://www.linkedin.com/in/prateekgurnani/
+- Twitter - https://twitter.com/Prateek_theDev
+
+- LinkedIn - https://www.linkedin.com/in/prateekgurnani/
 
 
