@@ -11,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 🔭 I’m currently working on projects
+- 🌱 I’m currently learning cybersecurity stuff
+- 💬 Ask me about movies and T.V series 
+- 📫 How to reach me: via Twitter and LinkedIn
+
