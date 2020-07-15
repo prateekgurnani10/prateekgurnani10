@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JTy79YRYXtPy3YNWbg/giphy.gif" />
-
-*************
-
 <br />
 
 
