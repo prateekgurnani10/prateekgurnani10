@@ -6,14 +6,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning cybersecurity stuff
+- 🌱 I’m also learning Cybersecurity stuff
 - 💬 Ask me about movies and T.V series
 - 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning cybersecurity stuff
+- 🌱 I’m also learning Cybersecurity stuff
 - 💬 Ask me about Movies and T.V. series
 
 
