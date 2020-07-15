@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JTy79YRYXtPy3YNWbg/giphy.gif" />
+<img align="left" height="270px" width="250px" alt="GIF" src="https://media.giphy.com/media/JTy79YRYXtPy3YNWbg/giphy.gif" />
 <br />
 
 
