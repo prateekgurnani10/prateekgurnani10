@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/Prateek_theDev/)
+#### - 💬 Connect? Here
+👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/Prateek_theDev/)
 
 👉🏼 [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/prateekgurnani/)
