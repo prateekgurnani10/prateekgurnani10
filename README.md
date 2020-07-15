@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cybersecurity stuff
 - 💬 Ask me about Movies and T.V. series
 
-<br />
+
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JTy79YRYXtPy3YNWbg/giphy.gif" />
 <br />
 
 
 
-### - Languages and Tools...
+###  Languages and Tools...
 
 <p align="center">
 
