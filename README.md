@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=prateekgurnani10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/prateekgurnani10/github-readme-stats)
+
+<img src="https://github.com/prateekgurnani10/prateekgurnani10/blob/master/tweet.png" width="600">
