@@ -5,10 +5,10 @@ on:
     branches: [ master ]
   schedule:
     - cron:  '40 * * * *'
-      
+
 jobs:
   build:
-    runs-on: macOS-latest
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
