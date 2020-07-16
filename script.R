@@ -3,7 +3,7 @@ library(rtweet)
 
 lasttweet_token <- function() {
   create_token(
-    "rtweet_tokens_zy",
+    "github-readme-last-tweet",
     consumer_key = Sys.getenv("CONSUMER_KEY"),
     consumer_secret = Sys.getenv("CONSUMER_SECRET"),
     access_token = Sys.getenv("ACCESS_TOKEN"),
@@ -20,6 +20,7 @@ tweet_screenshot(
   tweet_url(handle, recent_tweets$status_id),
   scale = 5,
   maxwidth = 600,
-  theme = "dark",
+  theme = "light",
+  hide_media = TRUE,
   file = tmpimg
 )
