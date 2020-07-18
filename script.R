@@ -1,3 +1,4 @@
+install.packages("rtweet")
 library(tweetrmd)
 library(rtweet)
 
