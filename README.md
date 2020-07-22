@@ -1,5 +1,5 @@
 
-<!--START_SECTION:activity-->
+
 ### Hi there, I'm [Prateek!](https://prateekthedev.netlify.com/) 👋 .
 
 ![](https://komarev.com/ghpvc/?username=prateekgurnani10)
@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prateekgurnani10&show_icons=true&theme=synthwave)](https://github.com/prateekgurnani10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgurnani10&hide_langs_below=5&theme=synthwave)](https://github.com/prateekgurnani10/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
