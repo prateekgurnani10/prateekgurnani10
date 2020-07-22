@@ -52,6 +52,13 @@ Here are some ideas to get you started:
 ### 🚀🔥 Recent Activity!
 
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 
 
 <!--END_SECTION:activity-->
+=======
+1. ❗️ Closed issue [#1](https://github.com//prateekgurnani10/node-express-course/issues/1) in [prateekgurnani10/node-express-course](https://github.com//prateekgurnani10/node-express-course)
+2. ❌ Closed PR [#3](https://github.com//prateekgurnani10/github-slideshow/pull/3) in [prateekgurnani10/github-slideshow](https://github.com//prateekgurnani10/github-slideshow)
+3. 💪 Opened PR [#3](https://github.com//prateekgurnani10/github-slideshow/pull/3) in [prateekgurnani10/github-slideshow](https://github.com//prateekgurnani10/github-slideshow)
+4. ❗️ Closed issue [#1](https://github.com//prateekgurnani10/github-slideshow/issues/1) in [prateekgurnani10/github-slideshow](https://github.com//prateekgurnani10/github-slideshow)
+>>>>>>> 14e7b9e61a7ff5a15ddae749411e771429304427
