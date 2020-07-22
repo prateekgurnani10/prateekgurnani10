@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgurnani10&hide_langs_below=5&theme=synthwave)](https://github.com/prateekgurnani10/github-readme-stats)
 
+
+### 🚀🔥 Recent Activity!
+
 <!--START_SECTION:activity-->
+
 
 <!--END_SECTION:activity-->
