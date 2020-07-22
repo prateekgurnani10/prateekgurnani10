@@ -1,3 +1,5 @@
+
+<!--START_SECTION:activity-->
 ### Hi there, I'm [Prateek!](https://prateekthedev.netlify.com/) 👋 .
 
 ![](https://komarev.com/ghpvc/?username=prateekgurnani10)
